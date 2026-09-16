@@ -1,0 +1,13 @@
+# Nmap 7.95 scan initiated Sat Sep 12 14:26:56 2026 as: /usr/lib/nmap/nmap --privileged -sn -oN /home/habeebah/CIP-A105_c11.ehit2617337_CTF1_Iron-Raven/scans/01_host_discovery.txt 192.168.44.0/24
+Nmap scan report for 192.168.44.1
+Host is up (0.00093s latency).
+MAC Address: 00:50:56:C0:00:01 (VMware)
+Nmap scan report for 192.168.44.129
+Host is up (0.0017s latency).
+MAC Address: 00:0C:29:1F:75:9C (VMware)
+Nmap scan report for 192.168.44.254
+Host is up (0.0029s latency).
+MAC Address: 00:50:56:FF:2D:E9 (VMware)
+Nmap scan report for 192.168.44.128
+Host is up.
+# Nmap done at Sat Sep 12 14:27:25 2026 -- 256 IP addresses (4 hosts up) scanned in 28.11 seconds

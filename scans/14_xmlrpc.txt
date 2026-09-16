@@ -1,0 +1,8 @@
+HTTP/1.1 405 Method Not Allowed
+Date: Sat, 12 Sep 2026 14:44:40 GMT
+Server: Apache/2.4.10 (Debian)
+Allow: POST
+Content-Length: 42
+Content-Type: text/plain;charset=UTF-8
+
+XML-RPC server accepts POST requests only.

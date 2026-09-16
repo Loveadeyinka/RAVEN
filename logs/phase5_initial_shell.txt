@@ -1,0 +1,10 @@
+===== whoami =====
+habeebah
+===== id =====
+uid=1000(habeebah) gid=1000(habeebah) groups=1000(habeebah),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),116(bluetooth),121(lpadmin),124(wireshark),129(scanner),134(kaboxer)
+===== hostname =====
+kali
+===== pwd =====
+/home/habeebah/CIP-A105_c11.ehit2617337_CTF1_Iron-Raven
+===== date =====
+Mon 14 Sep 2026 22:54:23 WAT

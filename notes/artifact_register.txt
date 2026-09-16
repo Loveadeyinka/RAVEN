@@ -1,0 +1,8 @@
+
+Artifact: flag3.png
+Path: images/flag3.png
+Access level: Public unauthenticated HTTP access
+Acquisition method: Retrieved through the WordPress media endpoint
+Metadata: images/flag3_http.txt
+Integrity record: images/flag3.sha256
+Status: Recovered and hash verified

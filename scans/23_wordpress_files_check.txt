@@ -1,0 +1,14 @@
+===== /wordpress/readme.html =====
+200 text/html http://192.168.44.129/wordpress/readme.html
+===== /wordpress/license.txt =====
+200 text/plain http://192.168.44.129/wordpress/license.txt
+===== /wordpress/wp-includes/version.php =====
+200 text/html; charset=UTF-8 http://192.168.44.129/wordpress/wp-includes/version.php
+===== /wordpress/wp-content/uploads/ =====
+200 text/html;charset=UTF-8 http://192.168.44.129/wordpress/wp-content/uploads/
+===== /wordpress/wp-json/ =====
+404 text/html; charset=iso-8859-1 http://192.168.44.129/wordpress/wp-json/
+===== /wordpress/wp-login.php =====
+200 text/html; charset=UTF-8 http://192.168.44.129/wordpress/wp-login.php
+===== /wordpress/xmlrpc.php =====
+405 text/plain;charset=UTF-8 http://192.168.44.129/wordpress/xmlrpc.php

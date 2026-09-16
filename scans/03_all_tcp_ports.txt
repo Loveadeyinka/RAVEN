@@ -1,0 +1,12 @@
+# Nmap 7.95 scan initiated Sat Sep 12 14:35:13 2026 as: /usr/lib/nmap/nmap --privileged -Pn -p- --min-rate 1000 -oN /home/habeebah/CIP-A105_c11.ehit2617337_CTF1_Iron-Raven/scans/03_all_tcp_ports.txt 192.168.44.129
+Nmap scan report for 192.168.44.129
+Host is up (0.00044s latency).
+Not shown: 65531 closed tcp ports (reset)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+111/tcp   open  rpcbind
+43212/tcp open  unknown
+MAC Address: 00:0C:29:1F:75:9C (VMware)
+
+# Nmap done at Sat Sep 12 14:35:58 2026 -- 1 IP address (1 host up) scanned in 44.88 seconds

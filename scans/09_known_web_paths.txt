@@ -1,0 +1,12 @@
+===== /about.html =====
+200 13265 text/html
+===== /service.html =====
+200 11114 text/html
+===== /team.html =====
+200 15449 text/html
+===== /wordpress =====
+301 320 text/html; charset=iso-8859-1
+===== /contact.php =====
+200 9699 text/html; charset=UTF-8
+===== /blog-single.html =====
+404 294 text/html; charset=iso-8859-1
